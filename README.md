@@ -2,6 +2,7 @@
 # CH32V307VCT6 示例项目合集
 
 本仓库包含多个基于 CH32V307VCT6 微控制器的示例项目，旨在帮助开发者熟悉该芯片的功能和开发流程。
+样品开发版申请:https://www.wch.cn/services/request_sample.html
 
 ## 目录
 
